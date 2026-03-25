@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > This repository has been archived.
-> A maintained version of the MERLIN descrption package is available in [surface_robotics_mockups_description](https://github.com/NASA-JSC-Robotics/surface_robotics_mockups_description/tree/main/merlin_mockup_description).
+> A maintained version of the MERLIN description package is available in [surface_robotics_mockups_description](https://github.com/NASA-JSC-Robotics/surface_robotics_mockups_description/tree/main/merlin_mockup_description).
 
 Description package for [NASA's MERLIN freezers](https://ntrs.nasa.gov/citations/20110010968) for cold storage.
 
